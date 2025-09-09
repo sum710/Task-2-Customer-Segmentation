@@ -1,5 +1,5 @@
-# Task-2-Customer-Segmentation
-# Customer Segmentation Using Unsupervised Learning
+# Task-2-Customer-Segmentation Using Unsupervised Learning
+
 
 ## 🎯 Objective
 Cluster customers based on spending habits and propose marketing strategies.
